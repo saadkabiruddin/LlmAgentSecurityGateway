@@ -1,4 +1,4 @@
-# AgentGuard: Task-Scoped Authorization for LLM Banking Agents
+# LlmAgentSecurityGateway: Task-Scoped Authorization for LLM Banking Agents
 
 AgentGuard is a security gateway that sits between an LLM agent and the tools it can call.
 Every tool call must pass the gateway, which decides — independently of the model — whether
